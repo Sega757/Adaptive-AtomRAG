@@ -1,0 +1,6 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+scikit-learn==1.3.2
+numpy==1.26.2
+pydantic==2.5.2
+prometheus-fastapi-instrumentator==6.1.0
